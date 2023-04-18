@@ -1,6 +1,7 @@
 # Medieval-War-boardgame_Unity
 A boardgame where you control 4 characters to occupy opponent's castle. Game supports play PvP on same machine or play with AI using Minimax. <br>
 
+<p>Link play: <a href="https://halac123b.github.io/Medieval-War-boardgame_Unity/">Github pages</a></p
 <p> Each characters have different stats about number of tiles can move, attack power and HP. </p>
 <p> The tiles on map also have different characteristics:</p>
 <ul>
